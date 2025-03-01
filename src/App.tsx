@@ -22,7 +22,7 @@ function App() {
       <p className='text-5xl doto-text text-white mt-10'>Type your username! {"Github one! not instagram"}</p>
       <div className='z-10'>
         <input type="text" className='h-24 text-3xl rounded-4xl doto-text w-96 mt-20 bg-gray-800 z-10' />
-        <button onClick={openMod}><span className="material-symbols-outlined text-amber-50 ml-10"><p className='text-5xl'>download</p></span></button>
+        <button onClick={openMod}><span className="material-symbols-outlined text-amber-50 ml-10"><p className='text-2xl'>download</p></span></button>
       </div>
       <div>
         {
